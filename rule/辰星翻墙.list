@@ -50,7 +50,9 @@ DOMAIN-SUFFIX,eu.chenxing.com
 DOMAIN-SUFFIX,jp.chenxing.com
 DOMAIN-SUFFIX,sg.chenxing.com
 
-# 用户自定义翻墙规则区域
-# 请在此处添加您的自定义代理规则
+# 用户自定义翻墙规则区域（高优先级代理）
+DOMAIN-SUFFIX,cloudflare.com
+
+# 请在此处添加更多自定义代理规则
 # DOMAIN-SUFFIX,your-proxy-domain.com
 # DOMAIN-KEYWORD,your-proxy-keyword 

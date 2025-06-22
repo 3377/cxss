@@ -28,7 +28,27 @@ DOMAIN-SUFFIX,cn.chenxing.com
 IP-CIDR,192.168.1.0/24
 IP-CIDR,10.0.0.0/8
 
-# 用户自定义规则区域
-# 请在此处添加您的自定义直连规则
+# 用户自定义直连规则区域
+DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,deeplx.org
+DOMAIN-SUFFIX,kahaoquan.com
+DOMAIN-SUFFIX,pages.dev
+DOMAIN-SUFFIX,ggaa.eu.org
+DOMAIN-SUFFIX,ip138.com
+DOMAIN-SUFFIX,hstz.com
+DOMAIN-SUFFIX,hf.space
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursorapi.com
+DOMAIN,api.ipify.org
+
+# 端口规则
+DST-PORT,22
+DST-PORT,35798
+
+# 扩展规则集（需要对应的规则文件）
+# RULE-SET,cxrule-Oracle
+# RULE-SET,cxrule-Talktone
+
+# 请在此处添加更多自定义直连规则
 # DOMAIN-SUFFIX,your-domain.com
 # IP-CIDR,your-ip-range/24 

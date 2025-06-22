@@ -165,7 +165,6 @@ udp=true                            # 启用UDP转发
 ## 📞 联系方式
 
 - GitHub Issues: [提交问题](https://github.com/3377/cxss/issues)
-- Email: 35794406@qq.com
 
 ## 🔄 更新日志
 

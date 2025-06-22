@@ -37,7 +37,20 @@ DOMAIN-SUFFIX,chenxing-openai.com
 DOMAIN-SUFFIX,chenxing-anthropic.com
 DOMAIN-SUFFIX,chenxing-cohere.com
 
-# 用户自定义AI规则区域
-# 请在此处添加您的自定义AI服务规则
+# 用户自定义AI规则区域（美国节点）
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN,gemini.google.com
+DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,trae.ai
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,genspark.ai
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,google.com
+
+# 扩展规则集（需要对应的规则文件）
+# RULE-SET,cxrule-Gemini
+
+# 请在此处添加更多自定义AI服务规则
 # DOMAIN-SUFFIX,your-ai-domain.com
 # DOMAIN-KEYWORD,your-ai-keyword 
