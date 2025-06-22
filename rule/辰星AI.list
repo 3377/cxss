@@ -172,10 +172,11 @@ DOMAIN-SUFFIX,ewlmaakam.staging-bing-int.com
 DOMAIN-SUFFIX,bngpiglbalmenaabohcooocpnljgfemj
 DOMAIN-SUFFIX,rwww.bing.com
 
-# Google Gemini AI
+# Google Gemini AI（精确匹配格式）
 DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
+DOMAIN,ai.google.dev
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,makersuite.google.com
 DOMAIN-SUFFIX,ai.google.dev
