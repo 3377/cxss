@@ -1,0 +1,34 @@
+# 辰星直连规则
+# 用于需要直连访问的辰星服务
+# 更新时间：定期维护
+# ========================================
+
+# 辰星官方域名
+DOMAIN-SUFFIX,chenxing.com
+DOMAIN-SUFFIX,chenxing.cn
+DOMAIN-SUFFIX,chenxing.net
+DOMAIN-KEYWORD,chenxing
+
+# 辰星直连服务
+DOMAIN,api.chenxing.com
+DOMAIN,auth.chenxing.com
+DOMAIN,login.chenxing.com
+DOMAIN,account.chenxing.com
+
+# 辰星CDN节点
+DOMAIN-SUFFIX,chenxing-cdn.com
+DOMAIN-SUFFIX,static.chenxing.com
+DOMAIN-SUFFIX,img.chenxing.com
+
+# 辰星本地化服务
+DOMAIN-SUFFIX,chenxing.com.cn
+DOMAIN-SUFFIX,cn.chenxing.com
+
+# IP段规则（示例）
+IP-CIDR,192.168.1.0/24
+IP-CIDR,10.0.0.0/8
+
+# 用户自定义规则区域
+# 请在此处添加您的自定义直连规则
+# DOMAIN-SUFFIX,your-domain.com
+# IP-CIDR,your-ip-range/24 

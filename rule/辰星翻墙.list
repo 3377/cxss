@@ -1,0 +1,56 @@
+# 辰星翻墙规则
+# 用于需要代理访问的辰星国外服务
+# 建议使用香港或美国节点
+# ========================================
+
+# 辰星国际版服务
+DOMAIN-SUFFIX,global.chenxing.com
+DOMAIN-SUFFIX,international.chenxing.com
+DOMAIN-SUFFIX,overseas.chenxing.com
+DOMAIN-SUFFIX,world.chenxing.com
+
+# 辰星海外CDN
+DOMAIN-SUFFIX,cdn-us.chenxing.com
+DOMAIN-SUFFIX,cdn-eu.chenxing.com
+DOMAIN-SUFFIX,cdn-asia.chenxing.com
+DOMAIN-SUFFIX,static-global.chenxing.com
+
+# 辰星第三方集成服务
+DOMAIN-SUFFIX,github.chenxing.com
+DOMAIN-SUFFIX,gitlab.chenxing.com
+DOMAIN-SUFFIX,discord.chenxing.com
+DOMAIN-SUFFIX,telegram.chenxing.com
+
+# 辰星国外合作平台
+DOMAIN-SUFFIX,aws.chenxing.com
+DOMAIN-SUFFIX,gcp.chenxing.com
+DOMAIN-SUFFIX,azure.chenxing.com
+DOMAIN-SUFFIX,cloudflare.chenxing.com
+
+# 辰星海外API服务
+DOMAIN,api-global.chenxing.com
+DOMAIN,international-api.chenxing.com
+DOMAIN,overseas-api.chenxing.com
+
+# 辰星社交媒体集成
+DOMAIN-SUFFIX,twitter.chenxing.com
+DOMAIN-SUFFIX,facebook.chenxing.com
+DOMAIN-SUFFIX,instagram.chenxing.com
+DOMAIN-SUFFIX,youtube.chenxing.com
+
+# 辰星翻墙相关关键词
+DOMAIN-KEYWORD,chenxing-global
+DOMAIN-KEYWORD,global-chenxing
+DOMAIN-KEYWORD,chenxing-overseas
+DOMAIN-KEYWORD,overseas-chenxing
+
+# 辰星区域特定服务
+DOMAIN-SUFFIX,us.chenxing.com
+DOMAIN-SUFFIX,eu.chenxing.com
+DOMAIN-SUFFIX,jp.chenxing.com
+DOMAIN-SUFFIX,sg.chenxing.com
+
+# 用户自定义翻墙规则区域
+# 请在此处添加您的自定义代理规则
+# DOMAIN-SUFFIX,your-proxy-domain.com
+# DOMAIN-KEYWORD,your-proxy-keyword 

@@ -1,0 +1,43 @@
+# 辰星AI规则
+# 用于AI服务相关的辰星平台
+# 建议使用美国节点以获得最佳体验
+# ========================================
+
+# 辰星AI主要服务
+DOMAIN-SUFFIX,ai.chenxing.com
+DOMAIN-SUFFIX,chatbot.chenxing.com
+DOMAIN-SUFFIX,llm.chenxing.com
+DOMAIN-SUFFIX,gpt.chenxing.com
+
+# 辰星AI API服务
+DOMAIN,api-ai.chenxing.com
+DOMAIN,ai-api.chenxing.com
+DOMAIN,openai.chenxing.com
+DOMAIN,claude.chenxing.com
+
+# 辰星AI工具平台
+DOMAIN-SUFFIX,tools.chenxing.com
+DOMAIN-SUFFIX,workspace.chenxing.com
+DOMAIN-SUFFIX,studio.chenxing.com
+DOMAIN-SUFFIX,playground.chenxing.com
+
+# 辰星AI训练平台
+DOMAIN-SUFFIX,train.chenxing.com
+DOMAIN-SUFFIX,model.chenxing.com
+DOMAIN-SUFFIX,dataset.chenxing.com
+
+# 辰星AI相关关键词
+DOMAIN-KEYWORD,chenxing-ai
+DOMAIN-KEYWORD,ai-chenxing
+DOMAIN-KEYWORD,chenxing-gpt
+DOMAIN-KEYWORD,chenxing-llm
+
+# 第三方AI服务集成
+DOMAIN-SUFFIX,chenxing-openai.com
+DOMAIN-SUFFIX,chenxing-anthropic.com
+DOMAIN-SUFFIX,chenxing-cohere.com
+
+# 用户自定义AI规则区域
+# 请在此处添加您的自定义AI服务规则
+# DOMAIN-SUFFIX,your-ai-domain.com
+# DOMAIN-KEYWORD,your-ai-keyword 
