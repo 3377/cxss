@@ -10,6 +10,7 @@ IP-CIDR,10.0.0.0/8
 
 # 用户自定义直连规则区域
 DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,deeplx.org
 DOMAIN-SUFFIX,kahaoquan.com
 DOMAIN-SUFFIX,pages.dev
