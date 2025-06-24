@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,cloudflare.com
 
 # Google 服务规则（24条）
 DOMAIN-KEYWORD,gmail
-DOMAIN-KEYWORD,google
+DOMAIN-SUFFIX,google.com.hk
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,app-measurement.net
