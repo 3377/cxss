@@ -5,6 +5,7 @@
 
 # 用户自定义翻墙规则区域（高优先级代理）
 DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,nodeseek.com
 
 # Google 服务规则（24条）
 DOMAIN-KEYWORD,gmail
