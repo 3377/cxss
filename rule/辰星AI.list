@@ -23,7 +23,9 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,chatgpt.com
-
+# cursor
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursorapi.com
 # Claude AI
 DOMAIN-KEYWORD,claude
 DOMAIN-SUFFIX,anthropic.com
