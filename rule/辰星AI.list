@@ -7,7 +7,8 @@ DOMAIN-SUFFIX,x.ai
 
 # 扩展规则集（需要对应的规则文件）
 # RULE-SET,cxrule-Gemini
-
+# AugmentCode
+DOMAIN-SUFFIX,augmentcode.com
 # OpenAI 完整规则
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,chatgpt
