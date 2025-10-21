@@ -9,6 +9,7 @@ IP-CIDR,192.168.1.0/24
 IP-CIDR,10.0.0.0/8
 
 # 用户自定义直连规则区域
+DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,linux.do
 DOMAIN,api.deeplx.org
 DOMAIN-SUFFIX,kahaoquan.com
