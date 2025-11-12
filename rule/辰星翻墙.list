@@ -6,6 +6,7 @@
 # 用户自定义翻墙规则区域（高优先级代理）
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,linux.do
+DOMAIN,api.deeplx.org
 # Google 服务规则（24条）
 DOMAIN-KEYWORD,gmail
 DOMAIN-SUFFIX,google.com.hk
